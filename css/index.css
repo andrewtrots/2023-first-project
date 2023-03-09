@@ -3,3 +3,22 @@
 :root {
   font-family: "Open Sans", sans-serif;
 }
+
+header nav .top-banner {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+header .banner h1 {
+  font-size: 2rem;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 100px;
+}
+
+header nav .top-menu {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  padding: 0;
+}
